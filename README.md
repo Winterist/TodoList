@@ -33,6 +33,7 @@ To implement a todolist website using React &amp; Django REST Framework
 ~~(加载可能比较慢...)~~  
 
 1. 增加一个待办事项&编辑一个待办事项的具体内容  
+<img width="50%" height="50%" src="https://cl.ly/2u1c190z3R0E/Screen%20Recording%202018-05-10%20at%2003.40.06.31%20PM.gif"/>
 ![add](https://cl.ly/2u1c190z3R0E/Screen%20Recording%202018-05-10%20at%2003.40.06.31%20PM.gif)
 <br>
 <br>
