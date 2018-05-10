@@ -47,8 +47,8 @@ To implement a todolist website using React &amp; Django REST Framework
 <br>
 <br>
 
-4. 列出所有的待办事项 ~~(主界面)~~
-![surface](https://cl.ly/3M023S1l370a/Image%202018-05-10%20at%203.19.27%20PM.png){:height="50%" width="50%"}
+4. 列出所有的待办事项 ~~(主界面)~~  
+<img width="50%" height="50%" src="https://cl.ly/3M023S1l370a/Image%202018-05-10%20at%203.19.27%20PM.png"/>
 <br>
 <br>
 
