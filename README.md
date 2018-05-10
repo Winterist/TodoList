@@ -42,7 +42,7 @@ To implement a todolist website using React &amp; Django REST Framework
 <br>
 <br>
 
-3. 标记一个待办事项为已完成 
+3. 标记一个待办事项为已完成  
 ![mark](https://cl.ly/1F2n1B3d3U2r/Screen%20Recording%202018-05-10%20at%2003.43.19.96%20PM.gif)
 <br>
 <br>
